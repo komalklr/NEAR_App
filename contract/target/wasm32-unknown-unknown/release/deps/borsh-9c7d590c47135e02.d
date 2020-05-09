@@ -1,0 +1,12 @@
+/home/komal/near/new-awesome-app/contract/target/wasm32-unknown-unknown/release/deps/borsh-9c7d590c47135e02.rmeta: /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/lib.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/de/mod.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/de/hint.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/schema.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/schema_helpers.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/ser/mod.rs
+
+/home/komal/near/new-awesome-app/contract/target/wasm32-unknown-unknown/release/deps/libborsh-9c7d590c47135e02.rlib: /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/lib.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/de/mod.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/de/hint.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/schema.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/schema_helpers.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/ser/mod.rs
+
+/home/komal/near/new-awesome-app/contract/target/wasm32-unknown-unknown/release/deps/borsh-9c7d590c47135e02.d: /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/lib.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/de/mod.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/de/hint.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/schema.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/schema_helpers.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/ser/mod.rs
+
+/home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/lib.rs:
+/home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/de/mod.rs:
+/home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/de/hint.rs:
+/home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/schema.rs:
+/home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/schema_helpers.rs:
+/home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.6.1/src/ser/mod.rs:
